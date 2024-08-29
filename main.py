@@ -1,21 +1,25 @@
 '''     
 Manipulando arquivos .PDF com Python
-    Mantendo o sistema de ler a documentacao e explorar ela para aprender
-as diversas funções sobre a mesma
+    Estou explorando a manipulação de arquivos PDF usando Python, com foco na leitura da documentação e na prática para entender as funcionalidades da biblioteca PyPDF2.
 
  - Documentação PyPDF2: https://pypdf2.readthedocs.io/en/3.x/
- - Aprender e colocar em pratica a manipulação de pdfs e extracao de imagens e texto de dentro dos mesmo
- - Criar um novo arquivo em PDF e se aprofundar no uso dessa bibliteca, pois é um assunto relevante em diversas áreas.
+ 
+OBJETIVOS:
+Estudar e aplicar as funcionalidades da biblioteca PyPDF2.
+Aprender a extrair imagens e textos de PDFs.
+Criar novos arquivos PDF e se aprofundar no uso dessa biblioteca, dada sua relevância em várias áreas.
 
 ORGANIZAÇÃO DOS ESTUDOS:
-* Primeiro realizei a leitura da documentação e assisti videos para aprender sobre o uso da biblioteca
-* Logo após comecei a colocar a mão na massa criando os caminhos dos arquivos e pastas para salvar
-* Aprendi a ler o arquivo PDF, extrair textos e imagens dos mesmos
-* Aprendi a criar documentos PDF e escrever dentro dos mesmos 
+Leitura da Documentação: Iniciei com a leitura da documentação e assisti a vídeos explicativos para entender o uso da biblioteca.
+Prática: Comecei a colocar em prática o que aprendi, criando os caminhos dos arquivos e pastas para salvar os resultados.
+Extração de Conteúdo: Aprendi a ler arquivos PDF, extrair textos e imagens.
+Criação de PDFs: Explorei a criação de documentos PDF e como escrever neles.
 
 CONCLUSÃO: 
-    Todo o estudo da biblioteca so me trouxeram pensamentos positivos sobre a importancia disso e que em algum 
-    momento da minha carreira isso vai ser util, alem de que é sempre bom estar em constante aprendizado. Seguimos!! 
+   Estudar a biblioteca PyPDF2 me trouxe pensamentos positivos sobre sua importância, e acredito que em algum momento da minha carreira esse conhecimento será útil.
+   Além disso, é sempre gratificante estar em constante aprendizado. Seguimos em frente!!
+
+
 '''
 
 
